@@ -1,0 +1,12 @@
+dash==2.17.1
+dash-bootstrap-components==1.6.0
+dash-ag-grid==31.2.0
+plotly==5.22.0
+yfinance==0.2.40
+feedparser==6.0.11
+textblob==0.18.0
+pandas==2.2.2
+numpy==1.26.4
+gunicorn==22.0.0
+requests==2.32.3
+Flask==3.0.3
